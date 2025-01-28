@@ -27,6 +27,3 @@ This repository contains my solution for the **Kwanza Tukule Data Analyst Assess
    - Provide a summary of key metrics through interactive visualizations.
 
 ---
-
-## Repository Structure  
-
