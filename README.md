@@ -1,0 +1,2 @@
+# kwanza-tukule-data-analyst-assessment
+ Data Analyst Assessment for Kwanza Tukule This repository contains the solution for Kwanza Tukule's Data Analyst Assessment. It includes data cleaning, exploratory data analysis, advanced analytics, forecasting, and strategic insights derived from anonymized sales data. Visualizations and a dashboard are provided for actionable insights and recommendations.
